@@ -1,0 +1,1 @@
+let salary = 100;
