@@ -7,4 +7,4 @@ for (number of numbers)
 /* ForEach */
 numbers.forEach((number) => {
     console.log(number)
-}); 
+});
